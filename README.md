@@ -1,7 +1,7 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hello World...!! It's, Aman Verma here</h1>
 <h3 align="center">Data addict, CSE(Health Informatics) student at VIT-Bhopal</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1011011&label=Profile%20views&color=0e75b6&style=flat" alt="aman1011011" /> </p>
