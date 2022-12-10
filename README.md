@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hello World...!! It's, Aman Verma here</h1>
 <h3 align="center">Data addict, CSE(Health Informatics) student at VIT-Bhopal</h3>
 <img align="right" alt="Coding" width="400" scr="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
