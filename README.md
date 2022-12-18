@@ -1,5 +1,5 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
-<h1 align="center">Hello World...!! It's, Aman Verma here</h1>
+<h1 align="center">Hey everyone, Aman Verma here</h1>
 <h3 align="center">Data addict, CSE(Health Informatics) student at VIT-Bhopal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
