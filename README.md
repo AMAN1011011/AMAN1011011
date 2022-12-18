@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **Data, Data Science, Data Analysis, Programming, Python, Machine Learning, Deep Learning, Graphs/Statical Analysis & Visual Analysis**
+- 💬 Ask me about **Data, Data Science, Data Analysis, Programming, Python, hadoop, spark, Machine Learning, Deep Learning, Graphs/Statical Analysis & Visual Analysis**
 
 - 📫 How to reach me **10verma2002aman@gmail.com**
 
