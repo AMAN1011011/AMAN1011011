@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **10verma2002aman@gmail.com**
 
-- ⚡ Fun fact **I spend more than 10 hours listening music every day**
+- ⚡ Fun fact **I spend more than 102 hours listening music every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
