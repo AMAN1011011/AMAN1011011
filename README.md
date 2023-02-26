@@ -39,10 +39,12 @@ Hey, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557
 ### GitHub Activity Graph
 [![AMAN1011011's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AMAN1011011&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman1011011&show_icons=true&locale=en" alt="aman1011011" /></p>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman1011011&show_icons=true&locale=en&layout=compact" alt="aman1011011" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMAN1011011&count_private=true&show_icons=true&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN1011011&langs_count=10&layout=compact&theme=onedark" />
+<!--   <img src="https://github-readme-activity-graph.AMAN1011011.repl.co/graph?username=AMAN1011011&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
+</p>
