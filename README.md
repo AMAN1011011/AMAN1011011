@@ -1,7 +1,7 @@
-Hey, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =========================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=12236FF&width=435&lines=I+always+looks+for+Data.)](https://github.com/sponsors/heyValdemar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=12236FF&width=435&lines=I+always+look+out+for+Data.)](https://github.com/sponsors/heyValdemar)
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h3 align="center">CSE sophomore at Vellore Institute of Technology, Bhopal, M.P</h3>
@@ -41,10 +41,11 @@ Hey, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AMAN1011011&count_private=true&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMAN1011011&show_icons=true&theme=gotham" alt="AMAN1011011" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN1011011&langs_count=10&layout=compact&theme=onedark" />
-<!--   <img src="https://github-readme-activity-graph.AMAN1011011.repl.co/graph?username=AMAN1011011&theme=radical&bg_color=onedark&point=00000000&line=E3BE7A&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=#2E2C34&area=true&area_color=#2E2C34"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN1011011&langs_count=10&layout=compact&theme=gotham" />
 </p>
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
