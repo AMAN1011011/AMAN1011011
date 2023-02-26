@@ -1,4 +1,4 @@
-![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c01aee174bdc338aede0a49aa8a0230a)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hey everyone, Aman Verma here</h1>
 <h3 align="center">Data addict, CSE sophomore at Vellore Institute of Technology, Bhopal, M.P</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
