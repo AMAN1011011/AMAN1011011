@@ -41,7 +41,7 @@ class DataAnalyst:
         print("Thanks for reaching me.....!")
 
 
-me = SoftwareEngineer()
+me = DataAnalyst()
 me.say_hi()
 ```
 
