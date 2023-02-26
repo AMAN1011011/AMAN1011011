@@ -10,7 +10,7 @@ Hi, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557/
 
 
 <h3 align="center">CSE(Health Informatics sophomore at VIT-Bhopal University)</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
 
@@ -51,7 +51,11 @@ me.say_hi()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aman-verma-7a7571227" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="www.linkedin.com/in/aman-verma-7a7571227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-verma-7a7571227/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png", height="40" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png", height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/V_AMAN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png", height="50" width="50" /></a>
+<a href="https://www.instagram.com/picso_vids/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png", height="40" width="40" /></a>
+<a href="https://github.com/AMAN1011011" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png", height="40" width="40" /></a>
 </p>
 
 
