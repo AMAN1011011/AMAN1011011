@@ -9,7 +9,7 @@ Hi, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557/
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
-<h3 align="center">CSE(Health Informatics Pre-Final Year student at VIT-Bhopal University)</h3>
+<h3 align="center">CSE(Health Informatics) Pre-Final Year student at VIT-Bhopal University, M.P, India</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
