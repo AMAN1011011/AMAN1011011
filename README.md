@@ -1,6 +1,10 @@
+Hey, Aman Verma here....! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=========================================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=12236FF&width=435&lines=I+always+looks+for+Data.)](https://github.com/sponsors/heyValdemar)
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hey everyone, Aman Verma here</h1>
-<h3 align="center">Data addict, CSE sophomore at Vellore Institute of Technology, Bhopal, M.P</h3>
+<h3 align="center">CSE sophomore at Vellore Institute of Technology, Bhopal, M.P</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
@@ -19,11 +23,26 @@
 <a href="www.linkedin.com/in/aman-verma-7a7571227" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="www.linkedin.com/in/aman-verma-7a7571227" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/html-5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/mongodb.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools & Services I like to work with:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman1011011&show_icons=true&locale=en&layout=compact" alt="aman1011011" /></p>
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,tensorflow,azure,mysql,flask,visualstudio,r,mongodb,kafka,java,pytorch,bootstrap,cpp,html,css,php,js,discord,fastapi,git,github,githubactions,ai,instagram,linkedin,linux,powershell,stackoverflow,unity)](https://github.com/AMAN1011011)
 
+ </a>
+
+### GitHub Streak
+<div align="center">
+
+[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=AMAN1011011&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/heyvaldemar)
+
+</div>
+
+### GitHub Activity Graph
+[![AMAN1011011's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AMAN1011011&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
+
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman1011011&show_icons=true&locale=en" alt="aman1011011" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman1011011&" alt="aman1011011" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman1011011&show_icons=true&locale=en&layout=compact" alt="aman1011011" />
+</div>
