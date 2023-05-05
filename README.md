@@ -56,6 +56,7 @@ me.say_hi()
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png", height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/V_AMAN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png", height="50" width="50" /></a>
 <a href="https://www.instagram.com/picso_vids/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png", height="40" width="40" /></a>
+<a href="https://www.youtube.com/@technostacks001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052", height="40" width="50" /></a>
 <a href="https://github.com/AMAN1011011" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png", height="40" width="40" /></a>
 </p>
 
