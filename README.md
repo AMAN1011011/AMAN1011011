@@ -64,7 +64,7 @@ me.say_hi()
 
 <h3 align="left">Tools & Services I like to work with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,tensorflow,azure,mysql,flask,visualstudio,r,mongodb,kafka,java,pytorch,bootstrap,cpp,html,css,php,js,discord,fastapi,git,github,githubactions,ai,instagram,linkedin,linux,powershell,stackoverflow,unity)](https://github.com/AMAN1011011)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,mysql,visualstudio,mongodb,pytorch,bootstrap,html,css,php,js,git,github,ai.)](https://github.com/AMAN1011011)
 
 
 
