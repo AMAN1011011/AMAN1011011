@@ -73,14 +73,11 @@ me.say_hi()
 ### GitHub Streak
 <div align="center">
 
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=AMAN1011011&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)]
-
- 
+![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=AMAN1011011&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)
  
 </div>
 
-### GitHub Activity Graph
-[![AMAN1011011's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AMAN1011011&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)]
+
 
 
 
