@@ -99,6 +99,7 @@ me.say_hi()
 <hr>
 
 
+<h2 align="center">🎵 Spotify status (Current Favourite)</h2>
 <h2 align="center"></h2>
 <p align="center">
 <a href="https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw" >
