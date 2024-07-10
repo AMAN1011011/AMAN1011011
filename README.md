@@ -100,7 +100,6 @@ me.say_hi()
 
 
 <h2 align="center">🎵 Spotify status (Current Favourite)</h2>
-<h2 align="center"></h2>
 <p align="center">
 <a href="https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw" >
   <img src="https://github.com/AMAN1011011/AMAN1011011/blob/main/Beautiful%20Things.gif" width="600" height="350" align="center" alt="Now Playing">
