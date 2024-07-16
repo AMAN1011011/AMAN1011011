@@ -55,17 +55,16 @@ me.say_hi()
 <p align="left">
 <a href="https://www.linkedin.com/in/amanv10/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png", height="40" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png", height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/V_AMAN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png", height="50" width="50" /></a>
 <a href="https://www.instagram.com/picso_vids/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png", height="40" width="40" /></a>
 <a href="https://www.youtube.com/@technostacks001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052", height="40" width="50" /></a>
-<a href="https://github.com/AMAN1011011" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png", height="40" width="40" /></a>
+<a href="https://github.com/AMAN1011011" target="blank"><img align="center" src="https://icon-library.com/images/github-icon-white/github-icon-white-5.jpg", height="50" width="50" /></a>
 </p>
 
 
 
 <h3 align="left">Tools & Services I like to work with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,azure,mysql,visualstudio,mongodb,pytorch,bootstrap,html,css,php,js,git,github,ai.)](https://github.com/AMAN1011011)
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,tensorflow,sklearn,pytorch,raspberrypi,gcp,aws)](https://github.com/AMAN1011011)
 
 
 
