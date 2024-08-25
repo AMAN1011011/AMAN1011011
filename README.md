@@ -53,54 +53,66 @@ me.say_hi()
 ```
 
 
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+    <div style="flex: 1;">
+        <h3>Connect with me:</h3>
+        <p>Email: 10verma2002aman@gmail.com</p>
+        <p>
+            <a href="https://www.linkedin.com/in/amanv10/" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" />
+            </a>
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="_blank">
+                <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="40" />
+            </a>
+            <a href="https://www.instagram.com/picso_vids/?next=%2F" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="40" width="40" />
+            </a>
+            <a href="https://www.youtube.com/@technostacks001" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" height="40" width="50" />
+            </a>
+            <a href="https://github.com/AMAN1011011" target="_blank">
+                <img src="https://icon-library.com/images/github-icon-white/github-icon-white-5.jpg" height="50" width="50" />
+            </a>
+        </p>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<div align="left">
-<h3 align="left">Connect with me:</h3>
-<p>Email: 10verma2002aman@gmail.com</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/amanv10/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png", height="40" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png", height="40" width="40" /></a>
-<a href="https://www.instagram.com/picso_vids/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png", height="40" width="40" /></a>
-<a href="https://www.youtube.com/@technostacks001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052", height="40" width="50" /></a>
-<a href="https://github.com/AMAN1011011" target="blank"><img align="center" src="https://icon-library.com/images/github-icon-white/github-icon-white-5.jpg", height="50" width="50" /></a>
-</p>
-
-
-
-
-
-
-<h3 align="left">Tools & Services I work with:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,cpp,r,tensorflow,bootstrap,sklearn,opencv,pytorch,raspberrypi,arduino,gcp,aws,mongodb,express,react,nodejs,docker,postman,git&perline=5)](https://skillicons.dev)
-
-</a>
-
-
+<h3>Tools & Services I work with:</h3>
+        <p>
+            <img src="https://skillicons.dev/icons?i=py,mysql,cpp,r,tensorflow,bootstrap,sklearn,opencv,pytorch,raspberrypi,arduino,gcp,aws,mongodb,express,react,nodejs,docker,postman,git&perline=5" alt="Skills">
+        </p>
+    </div>
+<!-- Right Section -->
+    <div style="flex: 1; text-align: right;">
+        <h3>🎵 Spotify status (Current Favourite)</h3>
+        <p>
+            <a href="https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw">
+                <img src="https://github.com/AMAN1011011/AMAN1011011/blob/main/Beautiful%20Things.gif" width="400" height="250" alt="Now Playing">
+            </a>
+        </p>
+    </div>
+</div>
 
 
 <h3 align="center">GSSOC(24) Badges</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+    </a>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+    </a>
 </div>
 
-
-
-</div>
-<div align="center">
-<p align="center">🎵 Spotify status (Current Favourite)</p>
-<p align="center">
-<a href="https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw">
-<img src="https://github.com/AMAN1011011/AMAN1011011/blob/main/Beautiful%20Things.gif" width="600" height="350" align="center" alt="Now Playing">
-</a>
-</p>
-</div>
-</div>
 
 
