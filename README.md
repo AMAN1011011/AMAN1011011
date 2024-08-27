@@ -68,7 +68,7 @@ me.say_hi()
                     <td style="text-align: center;"><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqchczDFGcNKzZPNJvptcsPmFzwNLcfCNfxjBpDsfLSxcQwtMLfxMRKhrmTdnDjpKGWJB" target="_blank">
                         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" width="40" />
                     </a></td>
-                    <td style="text-align: center;"><a href="https://www.instagram.com/picso_vids/?next=%2F" target="_blank">
+                    <td style="text-align: center;"><a href="https://www.instagram.com/amanverma.rar/?next=%2F" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="40" width="40" />
                     </a></td>
                 </tr>
