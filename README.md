@@ -53,10 +53,11 @@ me.say_hi()
 ```
 
 
+
 <table cellpadding="20" style="width: 100%; border-collapse: separate; border-spacing: 20px;">
     <tr>
         <!-- Connect with Me Section -->
-        <td width="33%" valign="top" style="vertical-align: top;">
+        <td width="15%" valign="top" style="vertical-align: top; padding-right: 10px;">
             <h3>Connect with me:</h3>
             <p>Email: 10verma2002aman@gmail.com</p>
             <table style="width: 100%;">
@@ -78,31 +79,32 @@ me.say_hi()
                     <td style="text-align: center;"><a href="https://github.com/AMAN1011011" target="_blank">
                         <img src="https://icon-library.com/images/github-icon-white/github-icon-white-5.jpg" height="50" width="50" />
                     </a></td>
-                    </a></td>
                     <td style="text-align: center;"><a href="https://www.geeksforgeeks.org/user/aman1011011/" target="_blank">
                         <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" height="50" width="50" />
                     </a></td>
                 </tr>
             </table>
         </td>
-<!-- Tools & Services Section -->
-        <td width="33%" valign="top" style="padding-right: 20px;">
+        <!-- Tools & Services Section -->
+        <td width="30%" valign="top" style="padding: 20px; padding-left: 20px; padding-right: 20px;">
             <h3>Tools & Services I work with:</h3>
             <p>
                 <img src="https://skillicons.dev/icons?i=py,mysql,cpp,r,tensorflow,bootstrap,sklearn,opencv,pytorch,raspberrypi,arduino,gcp,aws,mongodb,express,react,nodejs,docker,postman,git&perline=5" alt="Skills">
             </p>
         </td>
-<!-- Spotify Status Section -->
-        <td width="33%" valign="top" align="right" style="padding-left: 20px;">
-            <h3>🎵 Spotify status (Current Favourite)</h3>
+        <!-- Spotify Status Section -->
+        <td width="10%" valign="top" align="center" style="padding-left: 10px; text-align: center;">
+            <h3>🎵 Spotify status</h3>
             <p>
                 <a href="https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw">
-                    <img src="https://github.com/AMAN1011011/AMAN1011011/blob/main/Beautiful%20Things.gif" width="400" height="250" alt="Now Playing">
+                    <img src="https://github.com/AMAN1011011/AMAN1011011/blob/main/Beautiful%20Things.gif" width="300" height="200" alt="Now Playing">
                 </a>
             </p>
         </td>
     </tr>
 </table>
+
+
 
 
 
