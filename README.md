@@ -73,7 +73,7 @@ me.say_hi()
                     </a></td>
                 </tr>
                 <tr>
-                    <td style="text-align: center;"><a href="https://www.youtube.com/@technostacks001" target="_blank">
+                    <td style="text-align: center;"><a href="https://www.youtube.com/@reapergripa" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" height="40" width="50" />
                     </a></td>
                     <td style="text-align: center;"><a href="https://github.com/AMAN1011011" target="_blank">
